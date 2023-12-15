@@ -18,7 +18,7 @@ npm install bodyParser etc others
 
 3. then from the vs code terminal run: npm start and click on the localhostlink from the terminal
 
-Thanks
+Thank you
 
 
 
